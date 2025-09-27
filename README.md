@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![DataCamp](https://img.shields.io/badge/DataCamp-Associate%20Data%20Scientist-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Completion](https://img.shields.io/badge/Progress-100%25-brightgreen.svg)
+![License](https://img.shields.io/badge/License-DataCamp-green.svg)
+![Completion](https://img.shields.io/badge/Progress-94%25-brightgreen.svg)
 
 > Complete course notes, code examples, and projects from DataCamp's Associate Data Scientist in Python career track.
 
@@ -40,20 +40,40 @@ This repository showcases my learning journey in data science with detailed note
 
 ## 🚀 Featured Projects
 
-### [📊 Sales Data Analysis](./projects/sales-analysis/)
-Comprehensive sales data analysis using Pandas and Matplotlib
+### [🏆 Nobel Prize Coding](./projects/nobel-prize-coding/)
+Analysis of Nobel Prize winners and patterns in awards across different categories and time periods.
 - **Technologies**: Python, pandas, matplotlib, seaborn
-- **Features**: Data cleaning, trend analysis, visualization
+- **Features**: Demographic analysis, temporal trends, statistical insights
 
-### [🎯 Customer Segmentation](./projects/customer-segmentation/)
-Customer segmentation project using K-means clustering
-- **Technologies**: scikit-learn, plotly, pandas
-- **Results**: Customer group identification and profiling
+### [🚨 Analyzing Crime in LA](./projects/analyzing-crime-in-la/)
+Comprehensive analysis of crime patterns and trends in Los Angeles using real crime data.
+- **Technologies**: Python, pandas, numpy, matplotlib
+- **Features**: Temporal analysis, geographical patterns, victim demographics
 
-### [🔮 Predictive Modeling](./projects/predictive-modeling/)
-Predictive modeling with machine learning
-- **Technologies**: scikit-learn, XGBoost, feature engineering
-- **Performance**: Model optimization with cross-validation
+### [👥 Customer Analytics: Preparing Data For Modelling](./projects/customer-analytics-data-modeling/)
+Data preprocessing and optimization for Training Data Ltd. to prepare customer data for machine learning models.
+- **Technologies**: Python, pandas, data type optimization
+- **Features**: Memory optimization, categorical data handling, business filtering
+
+### [🏠 Exploring Airbnb Market Trends](./projects/exploring-airbnb-market-trends/)
+Market analysis of Airbnb listings in New York to investigate short-term rental market for real estate investment.
+- **Technologies**: Python, pandas, multi-format data processing
+- **Features**: Market analysis, pricing trends, review timeline analysis
+
+### [🚗 Modeling Car Insurance Claim Outcomes](./projects/modeling-car-insurance-claim-outcomes/)
+Predictive modeling to identify the best predictor of car insurance claim outcomes using feature evaluation.
+- **Technologies**: Python, scikit-learn, pandas
+- **Features**: Feature selection, accuracy evaluation, risk assessment
+
+### [⚽ Hypothesis Testing with Men's and Women's Soccer Matches](./projects/hypothesis-testing-soccer-matches/)
+Statistical hypothesis testing to compare goal-scoring patterns between men's and women's FIFA World Cup matches.
+- **Technologies**: Python, scipy, pandas, statistical analysis
+- **Features**: Hypothesis testing, sports analytics, statistical inference
+
+### [🐧 Clustering Antarctic Penguin Species](./projects/clustering-antarctic-penguin-species/)
+Unsupervised learning project to identify penguin species clusters based on physical characteristics.
+- **Technologies**: Python, scikit-learn, pandas, clustering algorithms
+- **Features**: Unsupervised learning, species classification, cluster analysis
 
 ## 🛠️ Technologies Used
 
@@ -95,11 +115,15 @@ datacamp-associate-data-scientist/
 
 ## 📊 Statistics
 
-- **Total Courses**: 18
-- **Total Projects**: 10+
-- **Lines of Code**: 5000+
-- **Completion Rate**: 100%
+- **Total Courses**: 18 (17 completed)
+- **Total Projects**: 7
+- **Lines of Code**: 3000+
+- **Completion Rate**: 94%
 
 ## 📜 Certificates
 
 - [x] **DataCamp Associate Data Scientist Certificate** - [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/9b33b92733deaa2710d34859aca8942e515c5573?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)
+
+---
+
+⭐ If you find this repository helpful, please consider giving it a star!

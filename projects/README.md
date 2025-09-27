@@ -6,67 +6,71 @@ This directory contains all the hands-on projects completed during the DataCamp 
 
 ### [🏆 Nobel Prize Coding](./nobel-prize-coding/)
 Analysis of Nobel Prize winners and patterns in awards across different categories and time periods.
-- **Skills**: Data manipulation, statistical analysis, visualization
+- **Skills**: Data manipulation, statistical analysis, demographic analysis
 - **Tools**: Python, pandas, matplotlib, seaborn
-- **Key Insights**: Historical trends in Nobel Prize awards
+- **Key Insights**: Most common demographics, temporal trends, historical patterns
 
 ### [🚨 Analyzing Crime in LA](./analyzing-crime-in-la/)
 Comprehensive analysis of crime patterns and trends in Los Angeles using real crime data.
-- **Skills**: Geospatial analysis, time series analysis, data cleaning
-- **Tools**: Python, pandas, plotly, geopandas
-- **Key Insights**: Crime hotspots and temporal patterns
+- **Skills**: Temporal analysis, categorical data processing, geographical analysis
+- **Tools**: Python, pandas, numpy, matplotlib
+- **Key Insights**: Peak crime hours, night crime hotspots, victim age patterns
 
 ### [👥 Customer Analytics: Preparing Data For Modelling](./customer-analytics-data-modeling/)
-Data preprocessing and feature engineering for customer analytics machine learning models.
-- **Skills**: Data preprocessing, feature engineering, customer segmentation
-- **Tools**: Python, scikit-learn, pandas
-- **Key Insights**: Customer behavior patterns and modeling readiness
+Data preprocessing and optimization for Training Data Ltd. to efficiently prepare customer data for machine learning models.
+- **Skills**: Data type optimization, memory management, business logic filtering
+- **Tools**: Python, pandas, categorical data handling
+- **Key Insights**: Memory optimization techniques, enterprise customer targeting
 
 ### [🏠 Exploring Airbnb Market Trends](./exploring-airbnb-market-trends/)
-Market analysis of Airbnb listings to understand pricing strategies and market dynamics.
-- **Skills**: Market analysis, pricing optimization, data visualization
-- **Tools**: Python, pandas, matplotlib, seaborn
-- **Key Insights**: Factors affecting Airbnb pricing
+Market analysis of Airbnb listings in New York to investigate the short-term rental market for real estate investment insights.
+- **Skills**: Multi-format data processing, market analysis, time series analysis
+- **Tools**: Python, pandas, CSV/Excel/TSV processing
+- **Key Insights**: Review timeline analysis, private room market size, pricing trends
 
 ### [🚗 Modeling Car Insurance Claim Outcomes](./modeling-car-insurance-claim-outcomes/)
-Predictive modeling to determine factors influencing car insurance claim outcomes.
-- **Skills**: Machine learning, logistic regression, model evaluation
+Predictive modeling to identify the single best predictor of car insurance claim outcomes through systematic feature evaluation.
+- **Skills**: Feature selection, classification modeling, risk assessment
 - **Tools**: Python, scikit-learn, pandas
-- **Key Insights**: Risk factors for insurance claims
+- **Key Insights**: Best predictive features for insurance claims, accuracy evaluation
 
 ### [⚽ Hypothesis Testing with Men's and Women's Soccer Matches](./hypothesis-testing-soccer-matches/)
-Statistical analysis comparing performance metrics between men's and women's soccer matches.
-- **Skills**: Hypothesis testing, statistical analysis, sports analytics
-- **Tools**: Python, scipy, pandas, matplotlib
-- **Key Insights**: Statistical differences in match outcomes
+Statistical hypothesis testing to compare goal-scoring patterns between men's and women's FIFA World Cup matches since 2002.
+- **Skills**: Hypothesis testing, statistical inference, sports analytics
+- **Tools**: Python, scipy, pandas, statistical testing
+- **Key Insights**: Gender-based scoring pattern analysis, statistical significance testing
 
 ### [🐧 Clustering Antarctic Penguin Species](./clustering-antarctic-penguin-species/)
-Unsupervised learning project to identify and cluster different penguin species based on physical characteristics.
-- **Skills**: Clustering, unsupervised learning, species classification
-- **Tools**: Python, scikit-learn, seaborn
-- **Key Insights**: Species differentiation through physical measurements
+Unsupervised learning project to identify and cluster different penguin species based on physical characteristics and measurements.
+- **Skills**: Clustering algorithms, unsupervised learning, species classification
+- **Tools**: Python, scikit-learn, pandas, data preprocessing
+- **Key Insights**: Natural species groupings, cluster characterization, morphological patterns
 
 ## 📈 Skills Demonstrated
 
-### Data Analysis & Visualization
-- Exploratory Data Analysis (EDA)
-- Statistical analysis and interpretation
-- Data visualization with matplotlib, seaborn, plotly
+### Data Analysis & Processing
+- Multi-format data handling (CSV, Excel, TSV)
+- Data type optimization and memory management
+- Statistical analysis and hypothesis testing
+- Temporal and geographical data analysis
 
-### Machine Learning
-- Supervised learning (classification, regression)
-- Unsupervised learning (clustering, dimensionality reduction)
-- Model evaluation and validation
+### Machine Learning & Modeling
+- Supervised learning (classification, feature selection)
+- Unsupervised learning (clustering, species classification)
+- Model evaluation and accuracy assessment
+- Predictive modeling for business applications
 
-### Data Engineering
-- Data cleaning and preprocessing
+### Data Preprocessing & Engineering
+- Data cleaning and categorical handling
+- Missing value treatment and data validation
 - Feature engineering and selection
-- Data pipeline creation
+- Business logic implementation
 
-### Statistical Analysis
-- Hypothesis testing
-- A/B testing
-- Statistical modeling
+### Statistical Analysis & Testing
+- Hypothesis testing and p-value interpretation
+- Significance testing and statistical inference
+- Demographic and market analysis
+- Sports and behavioral analytics
 
 ## 🛠️ Technologies Used
 
