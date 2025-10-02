@@ -2,13 +2,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![DataCamp](https://img.shields.io/badge/DataCamp-Associate%20Data%20Scientist-green.svg)
-![License](https://img.shields.io/badge/License-DataCamp-green.svg)
-![Completion](https://img.shields.io/badge/Progress-94%25-brightgreen.svg)
+![License](https://img.shields.io/badge/License-DataCamp-yellow.svg)
+![Completion](https://img.shields.io/badge/Progress-100%25-brightgreen.svg)
 
 > Complete course notes, code examples, and projects from DataCamp's Associate Data Scientist in Python career track.
 
 ## 🎯 Goal
-This repository showcases my learning journey in data science with detailed notes, code examples, and practical projects for each course completed in the career track.
+This repository showcases my complete learning journey in data science with detailed notes, code examples, and practical projects for all courses completed in the career track.
 
 ## 📚 Completed Courses
 
@@ -75,6 +75,11 @@ Unsupervised learning project to identify penguin species clusters based on phys
 - **Technologies**: Python, scikit-learn, pandas, clustering algorithms
 - **Features**: Unsupervised learning, species classification, cluster analysis
 
+### [📀 Predicting DVD Rental Duration](./projects/predicting-dvd-rental-duration/)
+Regression modeling to predict DVD rental duration for inventory optimization.
+- **Technologies**: Python, scikit-learn, pandas, datetime processing
+- **Features**: Rental prediction, feature engineering, MSE optimization
+
 ## 🛠️ Technologies Used
 
 **Programming Languages:**
@@ -102,23 +107,19 @@ datacamp-associate-data-scientist/
 │   ├── distributions/
 │   └── ...
 ├── projects/              # Applied projects
-│   ├── sales-analysis/
-│   ├── customer-segmentation/
+│   ├── nobel-prize-coding/
+│   ├── analyzing-crime-in-la/
 │   └── ...
 ├── code-snippets/         # Quick code examples
-│   ├── pandas-cheatsheet.py
-│   ├── visualization-examples.py
-│   └── ml-templates.py
 └── certificates/          # Certificates
-    └── associate-certificate.pdf
 ```
 
 ## 📊 Statistics
 
-- **Total Courses**: 18 (17 completed)
-- **Total Projects**: 7
-- **Lines of Code**: 3000+
-- **Completion Rate**: 94%
+- **Total Courses**: 18 (all completed)
+- **Total Projects**: 8
+- **Lines of Code**: 3500+
+- **Completion Rate**: 100%
 
 ## 📜 Certificates
 

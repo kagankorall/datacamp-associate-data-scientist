@@ -46,6 +46,12 @@ Unsupervised learning project to identify and cluster different penguin species 
 - **Tools**: Python, scikit-learn, pandas, data preprocessing
 - **Key Insights**: Natural species groupings, cluster characterization, morphological patterns
 
+### [📀 Predicting DVD Rental Duration](./predicting-dvd-rental-duration/)
+Regression modeling project to predict rental duration for DVD inventory optimization and resource planning.
+- **Skills**: Regression modeling, feature engineering, data leakage prevention
+- **Tools**: Python, scikit-learn, pandas, datetime processing
+- **Key Insights**: Rental duration prediction, inventory optimization, MSE < 3 achievement
+
 ## 📈 Skills Demonstrated
 
 ### Data Analysis & Processing
