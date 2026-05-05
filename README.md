@@ -97,8 +97,14 @@ Regression modeling to predict DVD rental duration for inventory optimization.
 >
 > The Data Scientist in Python track shares several courses with the Associate Data Scientist in Python track. Those overlapping courses are **not** re-listed here — see the Associate section above. Only courses and projects unique to this track will appear below as I complete them.
 
-### 📚 Courses
-_Coming soon — only courses unique to this track will be listed._
+### 📚 Completed Courses
+
+#### 🤖 Machine Learning
+- [x] **[Preprocessing for Machine Learning in Python](./course-notes/preprocessing-for-machine-learning/)** - Missing data, standardization, feature engineering & selection
+
+#### 🗄️ SQL
+- [x] **[Introduction to SQL](./course-notes/introduction-to-sql/)** - Relational databases and basic querying with PostgreSQL
+- [x] **[Intermediate SQL](./course-notes/intermediate-sql/)** - Filtering, aggregates, sorting & grouping in PostgreSQL
 
 ### 🚀 Projects
 _Coming soon — projects unique to this track will be added here._
