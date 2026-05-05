@@ -105,9 +105,14 @@ Regression modeling to predict DVD rental duration for inventory optimization.
 #### 🗄️ SQL
 - [x] **[Introduction to SQL](./course-notes/introduction-to-sql/)** - Relational databases and basic querying with PostgreSQL
 - [x] **[Intermediate SQL](./course-notes/intermediate-sql/)** - Filtering, aggregates, sorting & grouping in PostgreSQL
+- [x] **[Joining Data in SQL](./course-notes/joining-data-in-sql/)** - Inner/outer/cross/self joins, set theory, subqueries
 
-### 🚀 Projects
-_Coming soon — projects unique to this track will be added here._
+### 🚀 Featured Projects
+
+#### [🧠 Analyzing Students' Mental Health](./projects/student-mental-health-analysis/)
+SQL analysis of how length of stay impacts mental health diagnostic scores for international students.
+- **Technologies**: PostgreSQL, SQL aggregations
+- **Features**: `GROUP BY` aggregation, `WHERE` filtering, alias & rounding for clean output
 
 ---
 

@@ -1,56 +1,66 @@
 # 📊 DataCamp Projects Portfolio
 
-This directory contains all the hands-on projects completed during the DataCamp Associate Data Scientist career track. Each project demonstrates practical application of data science concepts and techniques.
+This directory contains hands-on projects completed during the DataCamp **Associate Data Scientist** and **Data Scientist** in Python career tracks. Each project demonstrates practical application of data science concepts and techniques.
 
 ## 🚀 Featured Projects
 
-### [🏆 Nobel Prize Coding](./nobel-prize-coding/)
+### 🅰️ Associate Data Scientist in Python
+
+#### [🏆 Nobel Prize Coding](./nobel-prize-coding/)
 Analysis of Nobel Prize winners and patterns in awards across different categories and time periods.
 - **Skills**: Data manipulation, statistical analysis, demographic analysis
 - **Tools**: Python, pandas, matplotlib, seaborn
 - **Key Insights**: Most common demographics, temporal trends, historical patterns
 
-### [🚨 Analyzing Crime in LA](./analyzing-crime-in-la/)
+#### [🚨 Analyzing Crime in LA](./analyzing-crime-in-la/)
 Comprehensive analysis of crime patterns and trends in Los Angeles using real crime data.
 - **Skills**: Temporal analysis, categorical data processing, geographical analysis
 - **Tools**: Python, pandas, numpy, matplotlib
 - **Key Insights**: Peak crime hours, night crime hotspots, victim age patterns
 
-### [👥 Customer Analytics: Preparing Data For Modelling](./customer-analytics-data-modeling/)
+#### [👥 Customer Analytics: Preparing Data For Modelling](./customer-analytics-data-modeling/)
 Data preprocessing and optimization for Training Data Ltd. to efficiently prepare customer data for machine learning models.
 - **Skills**: Data type optimization, memory management, business logic filtering
 - **Tools**: Python, pandas, categorical data handling
 - **Key Insights**: Memory optimization techniques, enterprise customer targeting
 
-### [🏠 Exploring Airbnb Market Trends](./exploring-airbnb-market-trends/)
+#### [🏠 Exploring Airbnb Market Trends](./exploring-airbnb-market-trends/)
 Market analysis of Airbnb listings in New York to investigate the short-term rental market for real estate investment insights.
 - **Skills**: Multi-format data processing, market analysis, time series analysis
 - **Tools**: Python, pandas, CSV/Excel/TSV processing
 - **Key Insights**: Review timeline analysis, private room market size, pricing trends
 
-### [🚗 Modeling Car Insurance Claim Outcomes](./modeling-car-insurance-claim-outcomes/)
+#### [🚗 Modeling Car Insurance Claim Outcomes](./modeling-car-insurance-claim-outcomes/)
 Predictive modeling to identify the single best predictor of car insurance claim outcomes through systematic feature evaluation.
 - **Skills**: Feature selection, classification modeling, risk assessment
 - **Tools**: Python, scikit-learn, pandas
 - **Key Insights**: Best predictive features for insurance claims, accuracy evaluation
 
-### [⚽ Hypothesis Testing with Men's and Women's Soccer Matches](./hypothesis-testing-soccer-matches/)
+#### [⚽ Hypothesis Testing with Men's and Women's Soccer Matches](./hypothesis-testing-soccer-matches/)
 Statistical hypothesis testing to compare goal-scoring patterns between men's and women's FIFA World Cup matches since 2002.
 - **Skills**: Hypothesis testing, statistical inference, sports analytics
 - **Tools**: Python, scipy, pandas, statistical testing
 - **Key Insights**: Gender-based scoring pattern analysis, statistical significance testing
 
-### [🐧 Clustering Antarctic Penguin Species](./clustering-antarctic-penguin-species/)
+#### [🐧 Clustering Antarctic Penguin Species](./clustering-antarctic-penguin-species/)
 Unsupervised learning project to identify and cluster different penguin species based on physical characteristics and measurements.
 - **Skills**: Clustering algorithms, unsupervised learning, species classification
 - **Tools**: Python, scikit-learn, pandas, data preprocessing
 - **Key Insights**: Natural species groupings, cluster characterization, morphological patterns
 
-### [📀 Predicting DVD Rental Duration](./predicting-dvd-rental-duration/)
+#### [📀 Predicting DVD Rental Duration](./predicting-dvd-rental-duration/)
 Regression modeling project to predict rental duration for DVD inventory optimization and resource planning.
 - **Skills**: Regression modeling, feature engineering, data leakage prevention
 - **Tools**: Python, scikit-learn, pandas, datetime processing
 - **Key Insights**: Rental duration prediction, inventory optimization, MSE < 3 achievement
+
+### 🅱️ Data Scientist in Python
+
+#### [🧠 Analyzing Students' Mental Health](./student-mental-health-analysis/)
+SQL analysis exploring how the length of stay impacts mental health diagnostic scores (PHQ-9, SCS, ASISS) for international students.
+- **Skills**: SQL aggregation, filtering, grouping, output shaping
+- **Tools**: PostgreSQL, SQL (`GROUP BY`, `AVG`, `ROUND`, `ORDER BY`)
+- **Key Insights**: Per-stay-length averages of diagnostic scores for international students
 
 ## 📈 Skills Demonstrated
 
@@ -82,6 +92,7 @@ Regression modeling project to predict rental duration for DVD inventory optimiz
 
 **Programming Languages:**
 - Python 3.8+
+- SQL (PostgreSQL)
 
 **Data Analysis Libraries:**
 - pandas, numpy
