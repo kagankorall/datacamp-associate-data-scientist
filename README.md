@@ -101,6 +101,7 @@ Regression modeling to predict DVD rental duration for inventory optimization.
 
 #### 🤖 Machine Learning
 - [x] **[Preprocessing for Machine Learning in Python](./course-notes/preprocessing-for-machine-learning/)** - Missing data, standardization, feature engineering & selection
+- [x] **[Machine Learning for Business](./course-notes/machine-learning-for-business/)** - ML use cases, model design, business requirements & production management
 
 #### 🗄️ SQL
 - [x] **[Introduction to SQL](./course-notes/introduction-to-sql/)** - Relational databases and basic querying with PostgreSQL
