@@ -115,6 +115,11 @@ SQL analysis of how length of stay impacts mental health diagnostic scores for i
 - **Technologies**: PostgreSQL, SQL aggregations
 - **Features**: `GROUP BY` aggregation, `WHERE` filtering, alias & rounding for clean output
 
+#### [🎮 The Golden Era of Video Games](./projects/golden-era-of-video-games/)
+SQL analysis of the top 400 video games to identify best-sellers and a "golden era" where critics and users agreed on quality.
+- **Technologies**: PostgreSQL, SQL (`JOIN`, `GROUP BY`, `HAVING`, CTEs)
+- **Features**: Multi-table joins, aggregation with thresholds, set theory filters, year-over-year quality analysis
+
 ---
 
 ## 🛠️ Technologies Used

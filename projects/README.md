@@ -62,6 +62,12 @@ SQL analysis exploring how the length of stay impacts mental health diagnostic s
 - **Tools**: PostgreSQL, SQL (`GROUP BY`, `AVG`, `ROUND`, `ORDER BY`)
 - **Key Insights**: Per-stay-length averages of diagnostic scores for international students
 
+#### [🎮 The Golden Era of Video Games](./golden-era-of-video-games/)
+SQL analysis of the top 400 video games to surface best-sellers and a "golden era" where critics and users agreed games were highly rated.
+- **Skills**: Multi-table joins, aggregation with thresholds (`HAVING`), CTEs, set-theory filters
+- **Tools**: PostgreSQL, SQL (`JOIN`, `LEFT JOIN`, `GROUP BY`, `HAVING`, `WITH`, `ROUND`)
+- **Key Insights**: Top-selling titles, critic-favored release years, years where critics and users both rated games above 9
+
 ## 📈 Skills Demonstrated
 
 ### Data Analysis & Processing
