@@ -8,12 +8,12 @@
 > Course notes, code examples, and projects from DataCamp's **Associate Data Scientist in Python** and **Data Scientist in Python** career tracks.
 
 ## 🎯 Goal
-This repository showcases my learning journey in data science with detailed notes, code examples, and practical projects across two DataCamp career tracks: Associate Data Scientist in Python (completed) and Data Scientist in Python (in progress).
+This repository showcases my learning journey in data science with detailed notes, code examples, and practical projects across two DataCamp career tracks: Associate Data Scientist in Python (completed) and Data Scientist in Python (completed).
 
 ## 🛤️ Tracks at a Glance
 
 - ✅ **Associate Data Scientist in Python** — Completed
-- 🚧 **Data Scientist in Python** — In Progress
+- ✅ **Data Scientist in Python** — Completed
 
 ---
 
@@ -93,9 +93,9 @@ Regression modeling to predict DVD rental duration for inventory optimization.
 
 ## 🅱️ Data Scientist in Python
 
-> 🚧 This track is currently in progress.
+> ✅ This track is now completed.
 >
-> The Data Scientist in Python track shares several courses with the Associate Data Scientist in Python track. Those overlapping courses are **not** re-listed here — see the Associate section above. Only courses and projects unique to this track will appear below as I complete them.
+> The Data Scientist in Python track shares several courses with the Associate Data Scientist in Python track. Those overlapping courses are **not** re-listed here — see the Associate section above. Only courses and projects unique to this track are listed below.
 
 ### 📚 Completed Courses
 
@@ -107,6 +107,10 @@ Regression modeling to predict DVD rental duration for inventory optimization.
 - [x] **[Introduction to SQL](./course-notes/introduction-to-sql/)** - Relational databases and basic querying with PostgreSQL
 - [x] **[Intermediate SQL](./course-notes/intermediate-sql/)** - Filtering, aggregates, sorting & grouping in PostgreSQL
 - [x] **[Joining Data in SQL](./course-notes/joining-data-in-sql/)** - Inner/outer/cross/self joins, set theory, subqueries
+
+#### 🛠️ Developer Tools
+- [x] **[Introduction to Git](./course-notes/introduction-to-git/)** - Version control fundamentals: repos, staging, commits, history & reverts
+- [x] **[Intermediate Git](./course-notes/intermediate-git/)** - Branching workflows, merge conflicts & remote collaboration (clone/fetch/pull/push)
 
 ### 🚀 Featured Projects
 
@@ -163,13 +167,15 @@ datacamp-data-scientist-python/
 - Projects: 8
 - Completion: 100%
 
-**Data Scientist in Python** 🚧
-- In progress — counts will be updated as the track advances.
+**Data Scientist in Python** ✅
+- Courses: 7 (track-unique, all completed)
+- Projects: 2
+- Completion: 100%
 
 ## 📜 Certificates
 
 - [x] **DataCamp Associate Data Scientist Certificate** - [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/9b33b92733deaa2710d34859aca8942e515c5573?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)
-- [ ] **DataCamp Data Scientist Certificate** — _in progress_
+- [x] **DataCamp Data Scientist Certificate** - [View Certificate](https://www.datacamp.com/statement-of-accomplishment/track/7cb00fb196d63b6f87aa1e624c37b662005136c3?raw=1)
 
 ---
 
